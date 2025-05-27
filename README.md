@@ -8,7 +8,7 @@ ContentDistro leverages Airtable for front-end content management and **Make.com
 
 ### Features
 - **Multi-client management**: Handle content for several clients across multiple platforms in a single Airtable workspace.
-- **Cost-effective**: Save money by using Airtable's basic team plan, avoiding price increases that typically come with other social media management tools.
+- **Cost-effective**: Cut costs by replacing expensive social media tools with a lean, custom automation that does the same job for a fraction of the price.
 - **Automation**: Seamless integration with Make.com for scheduling and automating content distribution.
 - **Custom scripts**: Trigger Airtable scripts to automate the workflow, reducing manual efforts.
 - **Content calendar**: Manage all your content through an intuitive Airtable calendar interface.
